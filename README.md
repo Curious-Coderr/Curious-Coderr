@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/8c61958b-e47c-4b51-b85b-f53be50dc0ba)
+
 <h1 align="center">Hi 👋, I'm Pramit Sarkar</h1>
 <h3 align="center">A passionate Python developer and Data Analyst from India</h3>
 
