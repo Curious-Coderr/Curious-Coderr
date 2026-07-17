@@ -89,7 +89,9 @@ Serving clients in **Healthcare, Real Estate, Legal, Ecommerce, SaaS, Agencies, 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramitsarkar.work@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919474322424)
 [![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/pramitsarkar-work)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://pramitsarkar-ai.onrender.com/)
 
 ---
 
 📍 Itahar, West Bengal, India · 🌍 Working globally
+
